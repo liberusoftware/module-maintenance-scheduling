@@ -2,7 +2,7 @@
   "name": "module-maintenance-scheduling",
   "display_name": "Maintenance Scheduling",
   "description": "Tenant-scoped calendars, shifts, availability, dispatch, travel, and conflict handling.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "category": "capability",
   "provider": "Liberu\\Modules\\Maintenance\\Scheduling\\SchedulingServiceProvider",
   "requires": {
